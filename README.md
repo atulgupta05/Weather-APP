@@ -43,10 +43,13 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
    
 3. **run live server
 
-   ``` Start Live Server from the bottom in index.html
+   ```bash
+    Start Live Server from the bottom in index.html
+
    ```
 
 ## Running Tests
-
+```bash
 You can check the Weather Running
+
 ```
